@@ -1,0 +1,24 @@
+.c1{
+    position: relative;
+    margin-top: 50px;
+    
+
+}
+#i1{
+    display: block ;
+    height: 25px;
+    width: 150px;
+    background-color: white;
+    position: relative;
+    margin: 10px 10px 10px 10px;
+    
+
+    
+    
+
+}
+.c2{
+    margin-left: 200px;
+    margin-top: -170px;
+}
+

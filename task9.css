@@ -1,0 +1,35 @@
+div{
+    
+    display: block;
+    height: 70px;
+    width: 150px;
+    border-radius: 0px 10px 10px 0px;
+    padding: 15px;
+    position: relative;
+    margin-left: -80px;
+    transition: 0.3s;
+
+
+}
+div:hover{
+    margin-left: 0;
+}
+
+#i1{
+    background-color: rgb(15, 89, 15);
+
+}
+#i2{
+    background-color: rgb(6, 128, 242);
+}
+#i3{
+    background-color: rgb(201, 42, 6);
+}
+#i4{
+    background-color: rgb(66, 57, 57);
+}
+
+
+.c2{
+    margin: auto;
+}

@@ -1,0 +1,29 @@
+.c1{
+    height: 30px;
+    width: 200px;
+}
+
+.c2{
+    background-color: rgb(122, 24, 24);
+}
+.c3{
+    background-color: rgb(66, 0, 0);
+    position: absolute;
+    top: 100px;
+    
+}
+.c4{
+    width: 150px;
+    height:80px;
+}
+.c5{
+    position: absolute;
+    left: 150px;
+}
+#i1{
+    border: right 0;
+}
+#i5{
+    position: absolute;
+    top: 100px;
+}

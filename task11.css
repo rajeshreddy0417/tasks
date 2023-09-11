@@ -1,0 +1,18 @@
+.c1{
+    display: block;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px 50px 50px 50px;
+}
+
+#usn{
+    height: 25px;
+    width: 100%;
+}
+#pwd{
+    height: 25px;
+    width: 100%;
+}
+.c3{
+    margin-left: 0;
+}
